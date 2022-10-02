@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sangeetha-s-Bake-Home/static/css/main.46d4c8c6.css",
+    "main.js": "/Sangeetha-s-Bake-Home/static/js/main.3a885b34.js",
+    "static/js/787.fcd4ef4e.chunk.js": "/Sangeetha-s-Bake-Home/static/js/787.fcd4ef4e.chunk.js",
+    "index.html": "/Sangeetha-s-Bake-Home/index.html",
+    "main.46d4c8c6.css.map": "/Sangeetha-s-Bake-Home/static/css/main.46d4c8c6.css.map",
+    "main.3a885b34.js.map": "/Sangeetha-s-Bake-Home/static/js/main.3a885b34.js.map",
+    "787.fcd4ef4e.chunk.js.map": "/Sangeetha-s-Bake-Home/static/js/787.fcd4ef4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46d4c8c6.css",
+    "static/js/main.3a885b34.js"
+  ]
+}
