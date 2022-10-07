@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import { signInWithPopup } from "firebase/auth";
+import { signInWithPopup } from "https://www.gstatic.com/firebasejs/9.11.0/firebase-auth.js";
 import { auth, provider } from "../firebase-config";
 
 function GoogleAuth({ setIsAuth }) {

@@ -7,7 +7,7 @@ import {
   doc,
   getDocs,
   updateDoc,
-} from "firebase/firestore";
+} from "https://www.gstatic.com/firebasejs/9.11.0/firebase-firestore.js";
 import { db } from "../firebase-config";
 import { useNavigate } from "react-router-dom";
 
